@@ -1,0 +1,6 @@
+* 3D demo
+
+A demo of a spinning cube made with TIC-80 with texture and lightmapping. Might use it for a course in 3D-graphics later.
+
+[[./spinning_cube.gif]]
+
